@@ -1,0 +1,13 @@
+/* .pixbox {
+	padding-left: center;
+}  */
+
+/* .imgbox {
+	padding-left: 7em;
+} */
+.card-body {
+	background-color: white;
+	padding: 0.5em;
+	border-radius: 0.8em;
+	box-shadow: 10px 5px 5px pink;
+}
