@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660011515310,
+  "timestamp": 1660014573672,
   "index": "https://ijomah.github.io/ijomahpaltiel/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://ijomah.github.io/ijomahpaltiel/favicon.ico",
         "https://ijomah.github.io/ijomahpaltiel/index.html",
-        "https://ijomah.github.io/ijomahpaltiel/main.106a6ba8b9fd44bb.js",
+        "https://ijomah.github.io/ijomahpaltiel/main.bb97973e32bfca1c.js",
         "https://ijomah.github.io/ijomahpaltiel/manifest.webmanifest",
         "https://ijomah.github.io/ijomahpaltiel/polyfills.616ed4c687c3671f.js",
         "https://ijomah.github.io/ijomahpaltiel/runtime.2ccfaffa60907d9e.js",
@@ -63,8 +63,8 @@
     "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.4ba85deaf3670942.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
     "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
     "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.b70781972ce7320b.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
-    "https://ijomah.github.io/ijomahpaltiel/index.html": "17d19fcc50146c4a45c6bb1ac31b4cbe0f7fbe1f",
-    "https://ijomah.github.io/ijomahpaltiel/main.106a6ba8b9fd44bb.js": "d5a4894c09e063ad9bdd89c9eb76a47ddeebcf13",
+    "https://ijomah.github.io/ijomahpaltiel/index.html": "8afdebff3a4ecac604b6f170565f55affc853a70",
+    "https://ijomah.github.io/ijomahpaltiel/main.bb97973e32bfca1c.js": "ddd5a2b756ef28ce372bb72cc5b82e7d70ffba1d",
     "https://ijomah.github.io/ijomahpaltiel/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "https://ijomah.github.io/ijomahpaltiel/polyfills.616ed4c687c3671f.js": "383312f8a043f115fdaac09176a1ce5642e6fec3",
     "https://ijomah.github.io/ijomahpaltiel/runtime.2ccfaffa60907d9e.js": "2eb4511373cda909707d395ff5ca63e067141bd4",
