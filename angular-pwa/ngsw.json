@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1660004244174,
+  "index": "https://ijomah.github.io/ijomahpaltiel/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ijomah.github.io/ijomahpaltiel/favicon.ico",
+        "https://ijomah.github.io/ijomahpaltiel/index.html",
+        "https://ijomah.github.io/ijomahpaltiel/main.106a6ba8b9fd44bb.js",
+        "https://ijomah.github.io/ijomahpaltiel/manifest.webmanifest",
+        "https://ijomah.github.io/ijomahpaltiel/polyfills.616ed4c687c3671f.js",
+        "https://ijomah.github.io/ijomahpaltiel/runtime.2ccfaffa60907d9e.js",
+        "https://ijomah.github.io/ijomahpaltiel/scripts.c606d965a864712e.js",
+        "https://ijomah.github.io/ijomahpaltiel/styles.0aac7946f893e5ad.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ijomah.github.io/ijomahpaltiel/assets/IMG-20220620-WA0002.jpg",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-128x128.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-144x144.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-152x152.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-192x192.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-384x384.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-512x512.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-72x72.png",
+        "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-96x96.png",
+        "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.009b407a9881be10.ttf",
+        "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.4ba85deaf3670942.woff",
+        "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg",
+        "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.b70781972ce7320b.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ijomah.github.io/ijomahpaltiel/assets/IMG-20220620-WA0002.jpg": "184740aebea218a77be6862266f0cb99f957a8a9",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ijomah.github.io/ijomahpaltiel/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ijomah.github.io/ijomahpaltiel/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.009b407a9881be10.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.4ba85deaf3670942.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.85f0466cb4ab3a4d.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "https://ijomah.github.io/ijomahpaltiel/glyphicons-halflings-regular.b70781972ce7320b.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+    "https://ijomah.github.io/ijomahpaltiel/index.html": "17d19fcc50146c4a45c6bb1ac31b4cbe0f7fbe1f",
+    "https://ijomah.github.io/ijomahpaltiel/main.106a6ba8b9fd44bb.js": "d5a4894c09e063ad9bdd89c9eb76a47ddeebcf13",
+    "https://ijomah.github.io/ijomahpaltiel/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://ijomah.github.io/ijomahpaltiel/polyfills.616ed4c687c3671f.js": "383312f8a043f115fdaac09176a1ce5642e6fec3",
+    "https://ijomah.github.io/ijomahpaltiel/runtime.2ccfaffa60907d9e.js": "2eb4511373cda909707d395ff5ca63e067141bd4",
+    "https://ijomah.github.io/ijomahpaltiel/scripts.c606d965a864712e.js": "ad30f3af1c77b348e11873d13bb0c9a47cc0d60d",
+    "https://ijomah.github.io/ijomahpaltiel/styles.0aac7946f893e5ad.css": "7af9367c8b5b10e5b087fa5f954e2de7956b2f60"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
