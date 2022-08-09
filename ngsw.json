@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660015820869,
+  "timestamp": 1660017726356,
   "index": "https://ijomah.github.io/ijomahpaltiel/index.html",
   "assetGroups": [
     {
@@ -30,7 +30,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ijomah.github.io/ijomahpaltiel/assets/images/IMG-20220620-WA0002.jpg",
+        "https://ijomah.github.io/ijomahpaltiel/assets/IMG-20220620-WA0002.jpg",
         "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-128x128.png",
         "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-144x144.png",
         "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-152x152.png",
@@ -49,7 +49,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://ijomah.github.io/ijomahpaltiel/assets/images/IMG-20220620-WA0002.jpg": "184740aebea218a77be6862266f0cb99f957a8a9",
+    "https://ijomah.github.io/ijomahpaltiel/assets/IMG-20220620-WA0002.jpg": "184740aebea218a77be6862266f0cb99f957a8a9",
     "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://ijomah.github.io/ijomahpaltiel/assets/images/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
